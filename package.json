@@ -1,0 +1,28 @@
+{
+  "name": "argsparser",
+  "version": "0.0.1",
+  "description": "arguments parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjindapitak/argsParser.git"
+  },
+  "keywords": [
+    "argumentparser"
+  ],
+  "author": "tjindapitak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjindapitak/argsParser/issues"
+  },
+  "homepage": "https://github.com/tjindapitak/argsParser#readme",
+  "_moduleAliases": {
+    "@test": "tester/test"
+  },
+  "dependencies": {
+    "module-alias": "^2.1.0"
+  }
+}
